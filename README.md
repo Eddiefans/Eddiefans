@@ -11,9 +11,6 @@
     <a href="https://www.linkedin.com/in/eddieceb/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/eddieceb/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
 </div>
 
 ### About me:
@@ -26,6 +23,23 @@ I'm a full stack developer
 - I love developing websites, apps, videogames and databases.
 
 ### Skills and languages:
-
-
-
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="37" height="37" style="background-color:#FFFFFF"/>
+<div/>
