@@ -43,6 +43,7 @@ I'm a full stack developer
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/jupyter-original.svg" width="37" height="37"/>&nbsp   
 <div/>
 
+<h1></h1>
     
 ### Portfolio
     
