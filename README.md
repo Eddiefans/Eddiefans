@@ -11,6 +11,9 @@
     <a href="https://www.linkedin.com/in/eddieceb/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a href="https://www.linkedin.com/in/eddieceb/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
 
 ### About me:
@@ -21,3 +24,8 @@ I'm a full stack developer
 - I'm currently studying Financial Fngineering at ITESO.
 - I try to use technologies and coding in order to solve financial problems.
 - I love developing websites, apps, videogames and databases.
+
+### Skills and languages:
+
+
+
