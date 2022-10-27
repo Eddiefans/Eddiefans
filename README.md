@@ -24,22 +24,21 @@ I'm a full stack developer
 
 ### Skills and languages:
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="37" height="37" style="background-color:#FFFFFF"/>
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/javascript-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/androidstudio-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/anaconda-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/markdown-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/jupyter-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/visualstudio-plain.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/python-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/css3-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/cplusplus-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/csharp-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/mysql-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/php-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/html5-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/unity-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/java-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/filezilla-plain.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/git-original.svg" width="37" height="37" style="background-color:#FFFFFF"/>
 <div/>
