@@ -42,3 +42,8 @@ I'm a full stack developer
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/anaconda-original.svg" width="37" height="37"/>&nbsp    
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/jupyter-original.svg" width="37" height="37"/>&nbsp   
 <div/>
+
+    
+### Portfolio
+    
+There is a list of repositories down below containing the projects I've worked on
