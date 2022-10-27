@@ -24,8 +24,8 @@ I'm a full stack developer
 
 ### Skills and languages:
 <div>
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/anaconda-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/markdown-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/anaconda-original.svg" width="37" height="37"/>&nbsp    
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/unity-original.svg" width="37" height="37"/>&nbsp
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/javascript-original.svg" width="37" height="37"/>&nbsp
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/androidstudio-original.svg" width="37" height="37"/>&nbsp
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/jupyter-original.svg" width="37" height="37"/>&nbsp
