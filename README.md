@@ -15,7 +15,7 @@
 
 ### About me:
 
-I'm a full stack developer
+I'm a full stack developer and future financial engineer
 
 - I studied Software Development at CETI Colomos.
 - I'm currently studying Financial Engineering at ITESO.
@@ -28,6 +28,8 @@ I'm a full stack developer
 <div>
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/javascript-original.svg" width="37" height="37"/>&nbsp
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/html5-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/r-original.svg" width="37" height="37"/>&nbsp
+    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/rstudio-original.svg" width="37" height="37"/>&nbsp
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/css3-original.svg" width="37" height="37"/>&nbsp
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/php-original.svg" width="37" height="37"/>&nbsp
     <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/mysql-original.svg" width="37" height="37"/>&nbsp
