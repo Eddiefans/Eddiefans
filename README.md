@@ -15,7 +15,7 @@
 
 ### About me:
 
-I'm a full stack developer and future financial engineer
+I'm a full stack developer and future financial engineer.
 
 - I studied Software Development at CETI Colomos.
 - I'm currently studying Financial Engineering at ITESO.
