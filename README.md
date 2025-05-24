@@ -26,7 +26,7 @@ I'm a Financial Engineer and Software Developer working at HP Inc. I love buildi
 - **Financial Automation** - Power BI dashboards and Python scripts at HP
 
 ## Looking for
-Roles in automation, ML engineering, quant finance, or anything that lets me build smart financial tools.
+Roles in automation, ML engineering, quant finance, or anything that lets me build smart and innovative solutions.
 
 ## Tech I use
 **Languages:** Python, SQL, JavaScript, C#, VBA  
