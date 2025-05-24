@@ -1,6 +1,5 @@
-<h1>
-    Hi, I'm Eddie
-</h1>
+# Hi, I'm Eddie 👋
+
 <div>
     <a href="mailto:edaguilarce@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -13,40 +12,30 @@
     </a>
 </div>
 
-### About me:
+## About me
+I'm a Financial Engineer and Software Developer working at HP Inc. I love building things that solve real problems, especially when it involves mixing finance with cool tech.
 
-I'm a full stack developer and future financial engineer.
+- 💼 Currently automating financial workflows at HP
+- 🎓 Finishing my Financial Engineering degree at ITESO
+- 🤖 Building ML models for trading and credit risk
+- 🔧 Always looking for ways to automate boring stuff
 
-- I studied Software Development at CETI Colomos.
-- I'm currently studying Financial Engineering at ITESO.
-- I try to use technologies and coding in order to solve financial problems.
-- I love developing websites, apps, videogames and databases.
+## What I'm working on
+- **Algorithmic Trading Bot** - Deep reinforcement learning for stock trading (41% returns!)
+- **Credit Risk Platform** - ML model predicting credit scores with 96% accuracy  
+- **Financial Automation** - Power BI dashboards and Python scripts at HP
 
-<h1></h1>
+## Looking for
+Roles in automation, ML engineering, quant finance, or anything that lets me build smart financial tools.
 
-### Skills and languages:
-<div>
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/javascript-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/html5-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/r-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/rstudio-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/css3-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/php-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/mysql-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/python-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/cplusplus-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/csharp-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/git-original.svg" width="37" height="37"/>
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/unity-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/androidstudio-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/visualstudio-plain.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/markdown-original.svg" width="37" height="37"/>&nbsp
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/anaconda-original.svg" width="37" height="37"/>&nbsp    
-    <img src="https://github.com/Eddiefans/Eddiefans/blob/main/Icons/jupyter-original.svg" width="37" height="37"/>&nbsp   
-<div/>
+## Tech I use
+**Languages:** Python, SQL, JavaScript, C#, VBA  
+**ML/Data:** scikit-learn, TensorFlow, Pandas  
+**Business Tools:** Power BI, Power Automate, Excel  
+**Other:** Git, Unity, React, PHP
 
-<h1></h1>
-    
-### Portfolio:
-    
-There is a list of repositories down below containing the projects I've worked on
+---
+
+![Eddie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eddiefans&show_icons=true&theme=dark&count_private=true)
+
+*Based in Guadalajara, Mexico 🇲🇽*
