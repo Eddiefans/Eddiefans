@@ -16,9 +16,9 @@
 I'm a Financial Engineer and Software Developer working at HP Inc. I love building things that solve real problems, especially when it involves mixing finance with cool tech.
 
 - 💼 Currently automating financial workflows at HP
-- 🎓 Finishing my Financial Engineering degree at ITESO
+- 🎓 Finished my Financial Engineering degree at ITESO
 - 🤖 Building ML models for trading and credit risk
-- 🔧 Always looking for ways to automate boring stuff
+- 🔧 Always looking for ways to solve a new problem
 
 ## What I'm working on
 - **Algorithmic Trading Bot** - Deep reinforcement learning for stock trading (41% returns!)
@@ -26,7 +26,7 @@ I'm a Financial Engineer and Software Developer working at HP Inc. I love buildi
 - **Financial Automation** - Power BI dashboards and Python scripts at HP
 
 ## Looking for
-Roles in automation, ML engineering, quant finance, or anything that lets me build smart and innovative solutions.
+Roles in DevOps, ML engineering, Full Stack, ETL, Quant Finance.
 
 ## Tech I use
 **Languages:** Python, SQL, JavaScript, C#, VBA  
